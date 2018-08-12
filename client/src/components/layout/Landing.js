@@ -20,7 +20,7 @@ class Landing extends Component {
                 <h1 className="display-3 mb-4">Jedediah</h1>
                 <p className="lead">
                   {' '}
-                  My Profile: click profile button below | For others this is a model of many social/employer sites, MERN Fullstack and deployed. Currently hosting my profile only. (Check out the README.md on git if you need more)
+                 Cyber Security Profile
                 </p>
                 <hr />
                 <Link to="/profile/Jedediah" className="btn btn-lg btn-info mr-2">
